@@ -83,4 +83,4 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
-open in browser with the localhost link
+# Open http://127.0.0.1:8000/ in your browser
